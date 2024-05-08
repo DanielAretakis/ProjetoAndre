@@ -19,6 +19,7 @@ main button{
     border-radius: 1rem;
     width: calc(100% - 3.2rem);
     margin: 0 16px;
+    background-color: #EDECEC;
 }
 
 footer{

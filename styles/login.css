@@ -10,7 +10,7 @@ header .tutor{
 }
 
 main{
-    background-color: #FFFFFF;
+    background-color: #EDECEC;
     position: absolute;
     bottom: 0;
     width: 100vw;
@@ -95,7 +95,7 @@ main h1{
 
 .botoes button, a{
     background-color: #075666;
-    color: #FFFFFF;
+    color: #EDECEC;
     padding: 0 1.6rem;
 }
 
