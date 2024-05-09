@@ -10,11 +10,11 @@ header .tutor{
 }
 
 main{
-    background-color: #EDECEC;
+    background-color: #FFFFFF;
     position: absolute;
     bottom: 0;
     width: 100vw;
-    height: 45%;
+    padding-bottom: 2rem;
 }
 
 main h1{
